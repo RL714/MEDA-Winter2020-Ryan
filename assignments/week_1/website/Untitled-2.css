@@ -1,0 +1,43 @@
+body {
+    background-color: lightgrey;
+}
+
+header, main, footer {
+    background-color: white;
+    width: 700px; 
+}
+
+header {
+    position: relative; 
+    
+}
+
+nav {
+    width: 360px; 
+    position: absolute;
+    right: 0;
+    top: 75px; 
+    text-align: right;  
+}
+
+nav ul {
+    padding-right: 10px; 
+}
+
+nav ul li{
+    display: inline-block;
+    border: 1px solid green; 
+    margin: 10px; 
+    font-family: 'Zilla Slab', serif; 
+    font-size: 24px; 
+    width: 350; 
+
+} 
+
+main {
+    height: 500px; 
+}
+
+footer {
+    height: 100px; 
+}
