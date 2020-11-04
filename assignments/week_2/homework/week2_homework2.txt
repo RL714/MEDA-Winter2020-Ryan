@@ -1,0 +1,38 @@
+Why are you taking the back-end class? What are your current expectations of the back-end class?
+A: Because I want diverse and supplemental job-skills for my future career prospects, in grant, copy, or proposal writing that will make me a more desirable candidate 
+and allow me to pivot more so in my role. 
+B: Because understanding the architecture of  website and the data within will be beneficial to my personal projects.  
+
+Before front-end class, did you have coding experience? What computer language(s) and how long ago?
+In the fall 2019 class at Sacramento City College, I took a C++ course and came pretty close to completing it with a C, but I had to drop the class for 
+personal financial reasons. 
+
+What front-end topics did you find difficult or what did you struggle with?
+I would say resizing images and some of the concepts like making lists when applying classes, as well as more coplicated gri-work,
+when designing a page. 
+
+Did the front-end class meet your expectations? Explain how it did or did not.
+I'd say it did. I learned a lot. Nothing is going to make you a maverick at something in seven weeks. It could have used more frequent homework,
+but it was still interesting to scramble to get projts done, even if it caused more gaps in my fundamentals than I would have liked.This issue was definitely remedied in
+back end, although sadly my schedule is becoming increasingly hectic with work. 
+
+Are you switching careers or looking to add skills to your resume? Why?
+I go over this decently in question 1, but I'd say more core aim is to get experience in white collar fields, and provide a base for myself 
+that will allow for financial growth that will allow me to do things like live alone, work remotely, or easily buy a house somewhere.
+
+What books or other resources are you depending on outside of class to enhance your learning?
+I really need to be more involved in supplemental resources. Very hectic schedule! I did download the book from last class though.
+
+Other than HTML, CSS, and JavaScript, what other computer languages are you currently learning or are interested in learning? Why?
+None at the moment, but I certainly wouldn't mind learning python for app development, or trying my hand at C++ again.
+
+Where do you see the industry going in the future?
+Same as every other industry haha, automation, but also a higher standard for soft skills as more people get into STEM out of financial necessity/reasons. I feel
+a white collar job apocalypse is looming in the U.S. and future happiness will largely be dependent on getting what you need as soon as possible, i.e. passive income 
+and a house. 
+
+After taking the back-end class do you plan or have already planned on continuing your learning in tech? What specifically do you plan on focusing?
+That's hard to say. I would likely focus on learning web design more thouroghly both on the visual design side and the data tracking side. From there, I might branch out into
+other things, just going by what calls to me, or prhaps what might be most desired from anexisting employer. Either way, I don't plan on ceasing my general learning
+until my income, job security, and relative job comfort match my quality of life desires.   
+
