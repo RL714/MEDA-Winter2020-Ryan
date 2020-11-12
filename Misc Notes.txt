@@ -1,0 +1,9 @@
+There are no commas inside an object 
+
+Json is a thing, not sure what its point is
+
+It is kinda like javascript but not 
+
+There is a different version of J son where you can make comments 
+
+json is more for data than actions 
